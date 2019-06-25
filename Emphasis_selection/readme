@@ -1,0 +1,3 @@
+Evaluation metric:
+Train and Predict functions in trainer_prob.py print out metrics like f1-score and precision.
+However, Match_m in Utils/Evalution2.py is used as the main evaluation metric. 
